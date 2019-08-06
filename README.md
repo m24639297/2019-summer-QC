@@ -13,7 +13,7 @@ This repository contains teaching materials, codes, and supplementary informatio
 
 * Introducing gates, circuits, and execution on different backends: [A Brief Tutorial on QISKit.pdf](https://github.com/m24639297/2019-summer-QC/blob/master/A%20Brief%20Tutorial%20on%20QISKit.pdf)
 
-* (For day 1) Jupyter notebook for basic operations of Qiskit: [Introduction to Quantum Computing and Qiskit](https://github.com/m24639297/2019-summer-QC/blob/master/Introduction%20to%20Quantum%20Computing%20and%20Qiskit%20%20(Day-1).ipynb)
+* (For day 1) Jupyter notebook for basic operations of Qiskit: [Introduction to Quantum Computing and Qiskit.ipynb](https://github.com/m24639297/2019-summer-QC/blob/master/Introduction%20to%20Quantum%20Computing%20and%20Qiskit%20%20(Day-1).ipynb)
 
 ## Application
 
