@@ -18,7 +18,7 @@ This repository contains teaching materials, codes, and supplementary informatio
 ## Application
 
 * Variational Quantum Eigensolver (VQE)
-    * [DIY notebook](https://github.com/m24639297/2019-summer-QC/blob/master/VQE-DIY.ipynb)
+    * [DIY notebook](https://github.com/m24639297/2019-summer-QC/blob/master/VQE-DIY.ipynb) (TO BE UPLOADED)
 
 * Finance: portfolio optimization
     * [Slides](https://github.com/m24639297/2019-summer-QC/blob/master/Qiskit-Finance.pdf)
