@@ -28,13 +28,13 @@ This repository contains teaching materials, codes, and supplementary informatio
    * [measurement error mitigation](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/measurement_error_mitigation-short_course.ipynb): Qiskit Ignis for error mitigation
    
 * Notebooks for Day 2 (afternoon)
-   * Qiskit Terra: [transpiler](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Introduction-to-Quantum-Computing-and-Qiskit-Day-2.ipynb)
+   * [transpiler](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Introduction-to-Quantum-Computing-and-Qiskit-Day-2.ipynb): More about Qiskit Terra
    
    * [Aer backends](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Aer%20backends.ipynb) and [noise model](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/noise%20model.ipynb): Introduction about Aer.
    
    * Error mitigation: [slides](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Error%20mitigation.pdf), [notebook 1 (real device)](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Error%20mitigation%20on%20real%20devices.ipynb), and [notebook 2 (measurement error)](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Measurement%20Error%20Mitigation.ipynb)
    
-   * [Calculation of expectation value](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Measure-the-Expectation-Value-of-Pauli-Matrices.pdf): preparation for VQE on day 3. 
+   * Preparation for VQE on day 3: [Calculation of expectation value](https://github.com/m24639297/2019-summer-QC/blob/master/Day2/Measure-the-Expectation-Value-of-Pauli-Matrices.pdf)
    
    
 ## Application 
