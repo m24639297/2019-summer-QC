@@ -42,10 +42,13 @@ This repository contains teaching materials, codes, and supplementary informatio
 * Day 3
 
   * Variational Quantum Eigensolver (VQE)
-    * [DIY notebook](https://github.com/m24639297/2019-summer-QC/blob/master/VQE-DIY.ipynb) (TO BE UPLOADED)
+      <!--* [DIY notebook](https://github.com/m24639297/2019-summer-QC/blob/master/VQE-DIY.ipynb) (TO BE UPLOADED)-->
+    
+      * [VQE 1234](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/Introduction-to-Quantum-Computing-and-Qiskit-Day-3.ipynb) : demonstration of creating a VQE (without using `VQE` package)
 
   * Finance: portfolio optimization
       * [Slides](https://github.com/m24639297/2019-summer-QC/blob/master/Qiskit-Finance.pdf)
+      
       * [Jupyter notebook](https://github.com/m24639297/2019-summer-QC/blob/master/portfolio.ipynb)
     
 
