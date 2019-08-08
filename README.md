@@ -48,6 +48,8 @@ This repository contains teaching materials, codes, and supplementary informatio
       
       * [Review of VQE and expectation value](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/Variational-Quantum-Eigensolver.pdf)
 
+      * [VQE-DIY](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/VQE-DIY.ipynb): Solution to VQE exercise
+
   * Finance: portfolio optimization
       * [Slides](https://github.com/m24639297/2019-summer-QC/blob/master/Qiskit-Finance.pdf)
       
