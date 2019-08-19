@@ -51,9 +51,9 @@ This repository contains teaching materials, codes, and supplementary informatio
       * [VQE-DIY](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/VQE-DIY.ipynb): Solution to VQE exercise
 
   * Finance: portfolio optimization
-      * [Slides](https://github.com/m24639297/2019-summer-QC/blob/master/Qiskit-Finance.pdf)
+      * [Slides](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/Qiskit-Finance.pdf)
       
-      * [Jupyter notebook](https://github.com/m24639297/2019-summer-QC/blob/master/portfolio.ipynb)
+      * [Jupyter notebook](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/portfolio.ipynb)
     
   * QGAN (official tutorial)
       * [QGAN](https://github.com/m24639297/2019-summer-QC/blob/master/Day3/qgans_for_loading_random_distributions.ipynb)
